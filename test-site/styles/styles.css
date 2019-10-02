@@ -1,0 +1,44 @@
+html {
+    font-size: 10px;
+    font-family: "Lato", sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px
+}
+
+html{
+    background-color: #0C2626;
+}
+
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 30px 30px 30px;
+    border: 5px solid black;
+    text-align: justify;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0px;
+    color: rgb(0, 10, 19);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  h2 {
+    color: rgb(0, 10, 19);
+    text-align: center;
